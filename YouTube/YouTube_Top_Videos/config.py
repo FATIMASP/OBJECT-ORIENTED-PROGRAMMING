@@ -1,5 +1,5 @@
 #config.py
-api_key = 'AIzaSyASMj0rKqIWapky883YZAxa9j3f7O34Oxo'
+api_key = 'your_api_key...see README.md'
 search_query = 'BUN KEBAB RECIPES'
 max_results = 1000000
 top = 5
