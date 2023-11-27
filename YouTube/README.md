@@ -1,8 +1,12 @@
 # $\textcolor{darkblue}{App 1:\ YouTube\ Top\ Videos}$
 $\color{blue}{Pre-requisites}$
+
 The use of this app first requires editing the api_key in config.py file
+
 Link to set api key: https://www.slickremix.com/docs/get-api-key-for-youtube/
+
 Link to google cloud: https://console.cloud.google.com/welcome/new?project=root-emissary-406317
+
 Link to quota limits: https://developers.google.com/analytics/devguides/config/mgmt/v3/limits-quotas#additional_quota
 
 # $\textcolor{darkgreen}{Other\ Useful\ Links:}$ 
