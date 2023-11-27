@@ -9,7 +9,7 @@ class YouTubeStatistics:
         self.max_results = config.max_results
         self.top = config.top
         self.final_cols = config.final_cols
-        self.int_cols = config.int_cols
+        self.int_cols = ['Views', 'Likes', 'Channel Views', 'Total Videos']
         self.sorting_cols = config.sorting_cols
         self.sorting_order = config.sorting_order
 
