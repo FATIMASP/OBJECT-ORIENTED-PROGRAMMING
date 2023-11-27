@@ -1,5 +1,5 @@
 # $\textcolor{darkblue}{App 1:\ YouTube\ Top\ Videos}$
-$\color{blue}{Pre-requisites}$
+##$\color{blue}{Pre-requisites}$
 
 The use of this app first requires editing the api_key in config.py file
 
